@@ -1,0 +1,18 @@
+[
+  {
+   " id": 1,
+    "title": "Exclusive E-Commerce Platform",
+    "description": "A modern, dynamic e-commerce website with shopping cart functionality and responsive design.",
+    "image": "../src/assets/images/ecommerce.png",
+    "tags": ["React", "Tailwind", "JavaScript"],
+   " link": "/work/ecommerce"
+  },
+  {
+   " id": 2,
+    "title": "Web Development Agency Website",
+    "description": "Professional service-focused website with modern dark theme and clear service categorization.",
+    "image": "../src/assets/images/konga.png",
+    "tags": ["CSS", "React", "Bootstrap"],
+   " link": "/work/coderevo"
+  }
+]
