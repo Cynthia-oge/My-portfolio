@@ -5,14 +5,15 @@
     "description": "A modern, dynamic e-commerce website with shopping cart functionality and responsive design.",
     "image": "../src/assets/images/ecommerce.png",
     "tags": ["React", "Tailwind", "JavaScript"],
-   " link": "/work/ecommerce"
+   " link": "https://exclusive-e.netlify.app/"
   },
+ 
   {
-   " id": 2,
-    "title": "Web Development Agency Website",
-    "description": "Professional service-focused website with modern dark theme and clear service categorization.",
-    "image": "../src/assets/images/konga.png",
-    "tags": ["CSS", "React", "Bootstrap"],
-   " link": "/work/coderevo"
-  }
+  "id": 2,
+  "title": "Admin Dashboard System",
+  "description": "Currently building a responsive admin dashboard using React to manage business data such as users, transactions, and analytics. The project focuses on creating clean UI components, structured layouts, and an intuitive user experience. Still in development, but demonstrates my approach to building scalable and user-friendly interfaces.",
+  "image": "../src/assets/images/dashboard.png",
+  "tags": ["React", "JavaScript", "CSS", "Tailwind"],
+  "link": "https://mag-dashboard.netlify.app/"
+}
 ]
